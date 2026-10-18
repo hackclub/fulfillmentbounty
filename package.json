@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@vercel/global-config": "^1.5.1",
-    "remix": "3.0.0-rc.4"
+    "remix": "3.0.0"
   },
   "devDependencies": {
     "@types/node": "26.6.4",
