@@ -1,5 +1,5 @@
-import type { Handle } from 'remix/ui'
-import { css } from 'remix/ui'
+import type { Handle } from 'remix/component'
+import { css } from 'remix/component'
 
 import { AGE_CAP, type DashboardStats } from '../data/cases.ts'
 import type { Dashboard } from '../data/stats.ts'

@@ -1,4 +1,4 @@
-import { css } from 'remix/ui'
+import { css } from 'remix/component'
 
 export const FONT_STACK = "Lexend, system-ui, -apple-system, 'Segoe UI', sans-serif"
 
